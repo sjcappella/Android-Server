@@ -1,0 +1,24 @@
+What is WireShark?
+An intrusion detection System.
+A packet analyzer.
+A fire-wall.
+An exploit framework.
+B
+What port does Ping ride?
+80
+23
+21
+None of the above.
+D
+Which of the following devices is a 'smart' device?
+Router
+Hub
+Switch
+Ethernet-Wire
+A
+What is a stenography?
+A dead dog.
+A packet analyzer.
+"Covered Writing"
+Blending pigeons.
+C

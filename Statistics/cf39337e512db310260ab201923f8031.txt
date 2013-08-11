@@ -1,0 +1,4 @@
+test:Applied Network Security::scores$100,075,100,050,025,025,100,100,100,100,100,100,
+test:Networking::scores$100,100,100,100,100,100,100,100,100,100,100,100,000,
+test:First Test For Admin::scores$100,
+test:Awesome::scores$100,
