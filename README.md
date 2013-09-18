@@ -1,3 +1,5 @@
+# Android-Server
+
 This project is a server application written in Java. The purpose of this server was to demonstrate the capabilities of network sockets.
 Specifically, this server is multithreaded capable of identifying remote admin and normal client users. The remote clients are designed to be
 accessed via Android applications. The remote admins access the server through a dedicated Java desktop application. This server is mainly a
